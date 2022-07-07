@@ -32,3 +32,8 @@ Imagen 5 ("Empleado modificado")
 [![Captura-de-pantalla-43.png](https://i.postimg.cc/GpFdH4x5/Captura-de-pantalla-43.png)](https://postimg.cc/5H2ZrNGB)
 
 Imagen 6 ("Borramos un usuario")
+
+
+[![Captura-de-pantalla-45.png](https://i.postimg.cc/ZnzCgWxP/Captura-de-pantalla-45.png)](https://postimg.cc/47wfHNMn)
+
+Imagen 7 ("Pequeña base de datos utilizada")
