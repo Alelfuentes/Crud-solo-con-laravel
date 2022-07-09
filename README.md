@@ -1,4 +1,4 @@
-# Entrevista
+# Crud con larabel
 En esta aplicacion veremos lo que pude hacer en el tiempo que tuve para realizar mi examen tecnico de programacion.
 
 La version que se utilizo fue vue 5.0.1 y vue/cli 3, solo tenemos que descargar y debemos procurar que tenemos la compatibilidad con las versionespara que se pueda correr de la mejor manera, se utilizo xampp para gestionar nuestra base de datos MSQL y tener el lenguaje de PHP ua que se programo en PHP una api para usar el CRUD, por el momento solo dio tiempo para realizar el CRUD con VUE.js
